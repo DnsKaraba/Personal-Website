@@ -1,2 +1,2 @@
 # Personal-Website
-This is me in a nut-shell. Contact me to get the un-compressed version.
+This is me in a nut-shell. Contact me to get the extracted version.
